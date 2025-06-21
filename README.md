@@ -1,7 +1,8 @@
 Beihang Uni Open Experiment 20250621
 
-The disruption including airport closing, aircraft disruption, flight delay
-The recovery method including exchange, replace, delete, add and delay the flight
+The disruption including airport closing, aircraft disruption, flight delay.
+
+The recovery method including exchange, replace, delete, add and delay the flight.
 
 Input is a flight schedule with some data and disruption.csv 
 Output is a new schedule
