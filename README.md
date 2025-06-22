@@ -16,3 +16,5 @@ dis_time: when we know the disruption happened
 ind_dis: if dis = 1: witch flight; dis = 2: witch aircraft; dis = 3: witch airport
 
 dis_value: if dis = 1: delay time (min); dis = 2: none; dis = 3: hhmm-hhmm
+
+use recovery621.py to calculate
